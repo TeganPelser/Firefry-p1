@@ -7,3 +7,7 @@ The project is all about mastering the inovation of coding and web development f
 ###Presentation
 
 My first course I'm attending are with Gwen. She shows me the basic steps with GitHub and Visual Studio Code
+
+index.html
+
+The start of a journey 
